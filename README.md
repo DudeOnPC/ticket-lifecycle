@@ -24,26 +24,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+**Ticket examples:**
+- Sev-A (1 hour, 24/7) [entire mobile/online banking system is down]--> SysAdmins
+- Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+- Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/DudeOnPC/ticket-lifecycle/assets/167653474/f90bc501-0988-41a8-b003-ba7e89fd19b6)
+![image](https://github.com/DudeOnPC/ticket-lifecycle/assets/167653474/716b3fe2-ad6e-4017-93c7-fab33b9676f2)
+![image](https://github.com/DudeOnPC/ticket-lifecycle/assets/167653474/6be0cdfd-ed18-47ed-918d-c8060c420d21)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+**Assigning priorities according to the severity of ticket. Here's an example:**
+![image](https://github.com/DudeOnPC/ticket-lifecycle/assets/167653474/9b35181a-afca-41e3-8b2d-5e8d19e4f7fa)
